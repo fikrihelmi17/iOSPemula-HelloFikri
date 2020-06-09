@@ -4,7 +4,7 @@
 //
 //  Created by Fikri on 01/06/20.
 //  Copyright © 2020 Dicoding Indonesia. All rights reserved.
-//
+// coba di fetching
 
 import UIKit
 
