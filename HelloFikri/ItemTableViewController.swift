@@ -11,7 +11,7 @@ import UIKit
 class ItemTableViewController: UITableViewController {
 
     var items = [Item]()
-    
+    //rubah
     func loadItems() -> [Item]? {
         return NSKeyedUnarchiver.unarchiveObject(withFile: Item.archiveURL.path) as? [Item]
     }
